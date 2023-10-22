@@ -13,3 +13,6 @@ This project is a clone of the Amazon.com homepage and checkout page, implemente
 - <u>**HTML5:**</u> Used to structure the layout and elements of the web pages.
 - <u>**CSS3:**</u> Employed for styling and ensuring an accurate visual representation of the Amazon website.
 - <u>**JavaScript:**</u> Implemented to enable dynamic functionality and ensure a seamless checkout experience.
+
+## Usage
+To view the Amazon Home and Checkout Page Clone, simply open the `amazon.html` file in any web browser. The Amazon homepage and checkout page will be displayed, allowing you to interact with the elements as you would on the original Amazon website.
