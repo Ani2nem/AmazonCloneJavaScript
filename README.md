@@ -15,4 +15,4 @@ This project is a clone of the Amazon.com homepage and checkout page, implemente
 - <u>**JavaScript:**</u> Implemented to enable dynamic functionality and ensure a seamless checkout experience.
 
 ## Usage
-To view the Amazon Home and Checkout Page Clone, simply open the `amazon.html` file in any web browser. The Amazon homepage and checkout page will be displayed, allowing you to interact with the elements as you would on the original Amazon website.
+To view the Amazon Home and Checkout Page Clone, simply clone this repository into your local machine and open the `amazon.html` file in any web browser. The Amazon homepage and checkout page will be displayed, allowing you to interact with the elements as you would on the original Amazon website.
